@@ -4,10 +4,7 @@
   </a>
   <a href="https://www.instagram.com/itzmadhuu?igsh=MTJxcGV5dGhlc2R1Yw==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://x.com/itzmadhuu?t=cXXWqnR7P_eIcxixxFymhw&s=08">
-    <img src="https://img.shields.io/badge/Facebook-royalblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+ 
 </div>
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Madhusudan  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" align="right" width="450" height="300"/>
