@@ -11,9 +11,9 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Maharashtra.
-- :telescope: Worked as Software Engineer at Infinite Computer Solutions.
+- :telescope: Working as Software Engineer at Infinite Computer Solutions.
 - :seedling: Exploring New Cutting-Edge Technologies.
-- :heart: Love to build web apps in free time.
+- :heart: Bringing Ideas to Life Through Code.
 - :star: Check my portfolio: [![Portfolio Badge](https://img.shields.io/badge/-Madhusudan-darkblue?style=flat&logo=Github&logoColor=white)](https://madhusudanlolge4.github.io/)
 
 <br />
